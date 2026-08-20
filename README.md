@@ -102,7 +102,3 @@ This is academic coursework — code here prioritizes learning the concept at ha
 Junior .NET/C# Developer · [pedrocpdev.vercel.app](https://pedrocpdev.vercel.app)
 
 ---
-
-## 📄 License
-
-MIT — see [LICENSE](LICENSE).
